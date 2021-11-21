@@ -1,6 +1,1 @@
-BMS architectures
-BMS functionalities
-OCV state estimator
-SOF estimation algorithms
-CAN communication
-BMS Hardware
+StateFlow for OCV state Estimation: A model in Simulink, for estimating whether the system is currently in OCV state
