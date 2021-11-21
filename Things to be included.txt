@@ -1,0 +1,6 @@
+BMS architectures
+BMS functionalities
+OCV state estimator
+SOF estimation algorithms
+CAN communication
+BMS Hardware
